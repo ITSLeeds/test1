@@ -1,0 +1,32 @@
+robin's github:
+https://github.com/itsleeds
+
+
+
+ITSLeeds is a team
+	R4TS is a repo (project) (like a sourceforge project)
+
+	each repo has different owners
+
+	accounts for individuals in it
+
+
+
+private projs - free to academic emails only, costs otherwise
+	(not prvate projs as a team - only as individual)
+	can invite compnay partners etc if created by academic for free
+
+
+"github desktop" app - to sync local disc with github - like dropbox
+	linux -- no app, just use git cmds
+	use as dropbox replacement
+
+pull req: base fork is destination, head fork is local
+	compare button
+
+
+no download metric - instead star clicks
+
+
+got to github home page (not profile) then dropdon for ITSLeeds
+	acting as ITSLeeds rather than as charles-fox 
